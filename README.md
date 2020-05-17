@@ -1,1 +1,1 @@
-This Projects enables you to add a book to a list so you can read it after, or probably save the Name and Autho of a book for future reference. after you are done reading it you delete the book and remain with the unread ones
+This Projects enables you to add a book to a list so you can read it after, or probably save the Name and Autho of a book for future reference. after you are done reading it you can delete the book and remain with the unread ones
